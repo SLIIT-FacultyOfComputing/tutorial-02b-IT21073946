@@ -20,6 +20,6 @@ int main()
         fac = fac * r;
     }
 
-    cout << "Factorial of " << no << " yis " << fac <<"\n";  
+    cout << "Factorial of " << no << " is " << fac <<"\n";  
     return 0;
 }

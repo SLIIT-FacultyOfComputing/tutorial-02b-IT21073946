@@ -29,14 +29,17 @@ int main()
   cout << endl;
   return 0;
 }
-long Factorial(int no);
+long Factorial(int no)
 {
-  for(int i=n; i <= 1; i--)
+  for(int i=no; i >= 1; i--)
   {
-    return no += no * i;
+    int fac = 1;
+    return fac = fac * i;
   }
 }
 long nCr(int n,int r)
 {
-  return 
+  nCr = Factorial(int n) / (Factorial(int r) * Factorial(int (n - r));
+
+  return nCr;
 }
